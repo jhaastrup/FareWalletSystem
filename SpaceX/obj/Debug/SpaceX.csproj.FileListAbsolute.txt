@@ -1,0 +1,6 @@
+c:\users\ay\documents\visual studio 2013\Projects\SpaceX\SpaceX\bin\Debug\SpaceX.exe.config
+c:\users\ay\documents\visual studio 2013\Projects\SpaceX\SpaceX\bin\Debug\SpaceX.exe
+c:\users\ay\documents\visual studio 2013\Projects\SpaceX\SpaceX\bin\Debug\SpaceX.pdb
+c:\users\ay\documents\visual studio 2013\Projects\SpaceX\SpaceX\obj\Debug\SpaceX.csprojResolveAssemblyReference.cache
+c:\users\ay\documents\visual studio 2013\Projects\SpaceX\SpaceX\obj\Debug\SpaceX.exe
+c:\users\ay\documents\visual studio 2013\Projects\SpaceX\SpaceX\obj\Debug\SpaceX.pdb
